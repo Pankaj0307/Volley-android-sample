@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VolleySample</string>
+    <string name="request_types">Request types</string>
+    <string name="string_request">String Request</string>
+    <string name="json_object">Json Object</string>
+    <string name="json_array">Json Array</string>
+    <string name="image">Image</string>
+    <string name="image_loader">Image Loader</string>
+    <string name="singletonactivity">Single Instance</string>
+    <string name="custom_response">Custom Response</string>
+</resources>
